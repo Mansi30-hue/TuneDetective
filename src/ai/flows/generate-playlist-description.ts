@@ -44,9 +44,9 @@ const prompt = ai.definePrompt({
   output: {schema: GeneratePlaylistDescriptionOutputSchema},
   prompt: `You are a music expert. Generate a short description of a playlist based on the following songs:
 
-{% each songs %}
+{{#each songs}}
 - {{this.title}} by {{this.artist}}
-{% endeach %}
+{{/each}}
 
 The description should be no more than 2 sentences long and capture the overall theme or mood of the playlist.
 `,
