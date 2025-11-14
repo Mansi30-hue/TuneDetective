@@ -1,3 +1,64 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Abstract album art with colorful waves",
+      "imageUrl": "https://images.unsplash.com/photo-1641515860544-483ea99e265d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMGFsYnVtfGVufDB8fHx8MTc2MzExNDExNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract album"
+    },
+    {
+      "id": "2",
+      "description": "Monochromatic cityscape at night",
+      "imageUrl": "https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2l0eSUyMG5pZ2h0fGVufDB8fHx8MTc2MzA2MTA2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "3",
+      "description": "Vibrant geometric patterns",
+      "imageUrl": "https://images.unsplash.com/photo-1605106702842-01a887a31122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnZW9tZXRyaWMlMjBwYXR0ZXJufGVufDB8fHx8MTc2MzEwMjEyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric pattern"
+    },
+    {
+      "id": "4",
+      "description": "Serene nature landscape with a lake",
+      "imageUrl": "https://images.unsplash.com/photo-1569121233220-68806cee6a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bmF0dXJlJTIwbGFrZXxlbnwwfHx8fDE3NjMxMDMxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature lake"
+    },
+    {
+      "id": "5",
+      "description": "Close-up of a vinyl record",
+      "imageUrl": "https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aW55bCUyMHJlY29yZHxlbnwwfHx8fDE3NjMxMjI3MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vinyl record"
+    },
+    {
+      "id": "6",
+      "description": "Psychedelic liquid light art",
+      "imageUrl": "https://images.unsplash.com/photo-1562715167-0cfd7f190044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwc3ljaGVkZWxpYyUyMGFydHxlbnwwfHx8fDE3NjMwMzM3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "psychedelic art"
+    },
+    {
+      "id": "7",
+      "description": "A retro-futuristic car driving into the sunset",
+      "imageUrl": "https://images.unsplash.com/photo-1601840318642-12e449e011c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXRybyUyMGZ1dHVyZXxlbnwwfHx8fDE3NjMxMzY3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "retro future"
+    },
+    {
+      "id": "8",
+      "description": "A field of wildflowers",
+      "imageUrl": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aWxkZmxvd2VyJTIwZmllbGR8ZW58MHx8fHwxNzYzMTA3MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildflower field"
+    },
+    {
+      "id": "9",
+      "description": "A moody, foggy forest",
+      "imageUrl": "https://images.unsplash.com/photo-1486707471592-8e7eb7e36f78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb2dneSUyMGZvcmVzdHxlbnwwfHx8fDE3NjMwNjc2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "foggy forest"
+    },
+    {
+      "id": "10",
+      "description": "Abstract shapes in pastel colors",
+      "imageUrl": "https://images.unsplash.com/photo-1647527098288-524155b4b1b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXN0ZWwlMjBhYnN0cmFjdHxlbnwwfHx8fDE3NjMxMzY3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pastel abstract"
+    }
+  ]
 }

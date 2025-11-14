@@ -1,1 +1,6 @@
-// Flows will be imported for their side effects in this file.
+import { config } from 'dotenv';
+config();
+
+import '@/ai/flows/extract-song-metadata.ts';
+import '@/ai/flows/generate-playlist-description.ts';
+import '@/ai/flows/recommend-songs.ts';
