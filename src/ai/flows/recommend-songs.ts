@@ -34,7 +34,7 @@ const prompt = ai.definePrompt({
 
 User preferences: {{{userInput}}}
 
-Recommendations:`, // Handlebars syntax for accessing input values
+Recommendations:`,
 });
 
 const recommendSongsBasedOnUserInputFlow = ai.defineFlow(
