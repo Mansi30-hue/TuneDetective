@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
-import { useFormState, useFormStatus } from "react-dom";
+import { useState, useEffect, useMemo, useActionState } from "react";
+import { useFormStatus } from "react-dom";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
@@ -147,17 +147,17 @@ export default function TuneDetectivePage() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
 
-  const [recommendationState, recommendAction] = useFormState<RecommendationState, FormData>(
+  const [recommendationState, recommendAction] = useActionState<RecommendationState, FormData>(
     getRecommendations,
     initialRecommendationState
   );
   
-  const [analysisState, analysisAction] = useFormState<AnalysisState, FormData>(
+  const [analysisState, analysisAction] = useActionState<AnalysisState, FormData>(
     analyzeSong,
     initialAnalysisState
   );
   
-  const [emotionState, emotionAction] = useFormState<EmotionState, FormData>(
+  const [emotionState, emotionAction] = useActionState<EmotionState, FormData>(
     getEmotionRecommendations,
     initialEmotionState
   );
@@ -574,3 +574,4 @@ export default function TuneDetectivePage() {
       )}
     </div>
   );
+}
