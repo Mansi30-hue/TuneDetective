@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/746f53f6-b6fe-427b-94d2-4a6a861fc9a0
+
 Core Technologies:
 
 Framework: Next.js (using the App Router) is the foundation, providing a React-based structure for building the user interface with server-side capabilities.
